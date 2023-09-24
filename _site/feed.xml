@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-24T16:41:03+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DMSI</title><subtitle>Este sitio web consiste en explicar el tema 1 &quot;Introducción al Desarrollo de Sistemas de Información&quot; de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información.</subtitle><entry><title type="html">Disciplinas relacionadas con los Sistemas de Información</title><link href="http://localhost:4000/posts/disciplinas-relacionadas" rel="alternate" type="text/html" title="Disciplinas relacionadas con los Sistemas de Información" /><published>2023-09-24T12:13:26+00:00</published><updated>2023-09-24T12:13:26+00:00</updated><id>http://localhost:4000/posts/disciplinas-relacionadas</id><content type="html" xml:base="http://localhost:4000/posts/disciplinas-relacionadas"><![CDATA[<h1 id="gestión-de-proyectos">Gestión de Proyectos:</h1>
+
+<ul>
+  <li>En un proyecto de desarrollo de sistemas, la experiencia técnica por sí sola no es suficiente; también se requiere una gestión de proyectos eficaz.</li>
+  <li>El gerente de proyecto planifica la ejecución, moviliza los recursos necesarios y controla y coordina el trabajo.</li>
+  <li>Además, el gerente de proyecto garantiza que las diversas partes interesadas estén comprometidas con el éxito del proyecto.</li>
+  <li>Una buena gestión de proyectos libera al equipo de desarrollo para concentrarse en la difícil tarea técnica de idear e implementar la solución.</li>
+</ul>
+
+<p><img src="https://www.atuservicio.net/wp-content/uploads/gestion-de-proyectos-1.png" alt="Gestion-de-proyectos" /></p>
+
+<h1 id="análisis-de-negocios">Análisis de Negocios:</h1>
+
+<ul>
+  <li>El análisis de negocios se enfoca en investigar la situación empresarial y descubrir los problemas que deben resolverse u oportunidades que deben aprovecharse.</li>
+  <li>Implica desarrollar soluciones integrales para problemas empresariales, que a menudo involucran el uso de tecnología de la información (TI) de alguna manera.</li>
+  <li>Los analistas de negocios también son importantes para identificar, documentar y gestionar los requisitos de los nuevos sistemas y servicios de TI o mejorados.</li>
+</ul>
+
+<p><img src="https://www.tibco.com/sites/tibco/files/media_entity/2022-01/business-process-analysis.svg" alt="analisis-de-negocios" /></p>
+
+<h1 id="arquitectura-de-sistemas">Arquitectura de Sistemas:</h1>
+
+<ul>
+  <li>Los arquitectos de sistemas se preocupan por desarrollar una arquitectura para la organización que respalde y coordine sus sistemas y proporcione una plataforma coherente para la expansión y el desarrollo.</li>
+</ul>
+
+<p><img src="https://www.tecnologias-informacion.com/arquitectura.jpg" alt="arquitectura-de-sistemas" /></p>
+
+<h1 id="programación">Programación:</h1>
+
+<ul>
+  <li>Aunque en el ámbito del desarrollo de sistemas, la programación es un área especializada que requiere un alto nivel de experiencia técnica, especialmente en cómo aprovechar al máximo las posibilidades ofrecidas por el hardware y el software disponibles.</li>
+</ul>
+
+<p><img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/que-es-javascript-descubre-sus-5-principales-usos.jpg" alt="programacion" /></p>
+
+<h1 id="pruebas">Pruebas:</h1>
+
+<ul>
+  <li>El papel del probador parece ser contraproducente al intentar demostrar que el sistema no funciona.</li>
+  <li>Este proceso es iterativo y, cuando el probador tiene dificultades para identificar más defectos en cualquier versión, se puede afirmar con cierta confianza que el sistema parece ser satisfactorio.</li>
+  <li>Es importante comprender que ninguna prueba, por exhaustiva que sea, puede garantizar que el software esté completamente libre de errores.</li>
+</ul>
+
+<p><img src="https://adrianalonso.es/wp-content/uploads/2017/06/testing.jpg" alt="testing" /></p>
+
+<h1 id="gestión-de-configuración-y-control-de-cambios">Gestión de Configuración y Control de Cambios:</h1>
+<ul>
+  <li>Con la creciente complejidad de los sistemas, se ha vuelto aún más importante conocer la última versión del sistema, sus componentes y cómo se relacionan entre sí.</li>
+  <li>La disciplina que se encarga de gestionar estos componentes se conoce como ‘gestión de configuración’, y está relacionada con el control de cambios, que es un proceso para administrar cambios en un sistema o producto de manera controlada.</li>
+</ul>
+
+<p><img src="https://media.licdn.com/dms/image/C4D12AQHMabPTK_vNvg/article-cover_image-shrink_720_1280/0/1646651155598?e=2147483647&amp;v=beta&amp;t=INAM0vNj2vQ5VB7QAfsLYwj5pt9VjD17zu3t9M2Dryk" alt="config-control-de-cambios" /></p>
+
+<h1 id="control-de-calidad-y-garantía-de-calidad">Control de Calidad y Garantía de Calidad:</h1>
+<ul>
+  <li>El control de calidad consiste en los procesos, como revisiones o inspecciones de código, que se emplean dentro de un equipo de proyecto para asegurar que los productos entregados cumplan con los criterios de calidad definidos.</li>
+  <li>La garantía de calidad es un proceso externo que asegura que se esté ejerciendo el control de calidad. Además. también establece estándares para ayudar en el control de calidad.</li>
+</ul>
+
+<p><img src="https://img.freepik.com/vector-gratis/ilustracion-control-calidad_53876-17826.jpg" alt="control-de-calidad" /></p>
+
+<h1 id="gestión-de-servicios">Gestión de Servicios:</h1>
+<ul>
+  <li>La gestión de servicios se ocupa de administrar y mantener los servicios proporcionados por los sistemas de TI.</li>
+  <li>Incluye actividades como la gestión de instalaciones (control de la infraestructura de TI de soporte) y la gestión de aplicaciones (apoyo y mejora de las aplicaciones una vez que se han entregado inicialmente).</li>
+</ul>
+
+<p><img src="https://blog.task4work.com/wp-content/uploads/2018/11/Task4Work_Gestion_Servicios_Campo.jpg" alt="gestion-servicios" /></p>]]></content><author><name>Borja Medina Ramos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Gestión de Proyectos:]]></summary></entry><entry><title type="html">Offshoring y Outsourcing en Sistemas de Información.</title><link href="http://localhost:4000/posts/offshoring-outsourcing" rel="alternate" type="text/html" title="Offshoring y Outsourcing en Sistemas de Información." /><published>2023-09-24T12:13:26+00:00</published><updated>2023-09-24T12:13:26+00:00</updated><id>http://localhost:4000/posts/offshoring-outsourcing</id><content type="html" xml:base="http://localhost:4000/posts/offshoring-outsourcing"><![CDATA[<p>En los últimos años, dos cambios importantes han impactado a muchas organizaciones: el offshoring y la y el outsourcing en desarrollo de sistemas. Estas pueden estar relacionadas pero no dependen entre sí.</p>
+
+<h1 id="offshoring">Offshoring</h1>
+
+<ul>
+  <li>Implica utilizar recursos de desarrollo en otros países debido a la posibilidad de obtener recursos de alta calidad a un costo considerablemente menor que en el país de origen de la organización.</li>
+</ul>
+
+<h1 id="outsourcing">Outsourcing</h1>
+
+<ul>
+  <li>
+    <p>Consta de subcontratar el trabajo de desarrollo a empresas especializadas en servicios de tecnologías de la informacion y consultorías.</p>
+  </li>
+  <li>
+    <p>Aunque el costo puede ser un factor motivador aquí, a menudo el deseo de controlar un presupuesto de TI en aumento y transferir responsabilidad y riesgo son consideraciones igualmente a tener en cuenta en todo momento.</p>
+  </li>
+</ul>
+
+<p><img src="https://asperbrothers.com/wp-content/uploads/2019/11/outsourcing-offshoring.jpg" alt="comparabilidad" /></p>]]></content><author><name>Borja Medina Ramos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[En los últimos años, dos cambios importantes han impactado a muchas organizaciones: el offshoring y la y el outsourcing en desarrollo de sistemas. Estas pueden estar relacionadas pero no dependen entre sí.]]></summary></entry><entry><title type="html">¿Qué es el Desarrollo de Sistemas?</title><link href="http://localhost:4000/posts/que-es-el-desarrollo-de-sistemas" rel="alternate" type="text/html" title="¿Qué es el Desarrollo de Sistemas?" /><published>2023-09-24T12:13:26+00:00</published><updated>2023-09-24T12:13:26+00:00</updated><id>http://localhost:4000/posts/que-es-el-desarrollo-de-sistemas</id><content type="html" xml:base="http://localhost:4000/posts/que-es-el-desarrollo-de-sistemas"><![CDATA[<ul>
+  <li>
+    <p>El desarrollo de sistemas es el proceso de tomar un conjunto de requisitos empresariales y, a través de una serie de etapas estructuradas, traducirlos en un sistema de información.</p>
+  </li>
+  <li>
+    <p>En su día, los desarrolladores no aplicaban técnicas que permitieran que un sistema estuviera bien estructurado y gestionado. Sin embargo, actualmente este pensamiento es inviable puesto que los sistemas de información son, hoy en día, grandes y complejos.</p>
+  </li>
+</ul>
+
+<p><img src="https://www.researchgate.net/publication/221561464/figure/fig1/AS:669533551484935@1536640646921/Proceso-de-desarrollo-de-sistemas-software-con-OO-Method.png" alt="Proceso del Desarrollo de Sistemas" /></p>]]></content><author><name>Borja Medina Ramos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[El desarrollo de sistemas es el proceso de tomar un conjunto de requisitos empresariales y, a través de una serie de etapas estructuradas, traducirlos en un sistema de información.]]></summary></entry><entry><title type="html">Visión general del curso.</title><link href="http://localhost:4000/posts/vision-general" rel="alternate" type="text/html" title="Visión general del curso." /><published>2023-09-24T12:13:26+00:00</published><updated>2023-09-24T12:13:26+00:00</updated><id>http://localhost:4000/posts/vision-general</id><content type="html" xml:base="http://localhost:4000/posts/vision-general"><![CDATA[<h2 id="capítulos">Capítulos</h2>
+<p>Se mostrará a continuación un breve resumen de lo que tratará el curso sobre el desarrollo de sistemas de información.</p>
+
+<h3 id="capítulo-2-tipos-de-ciclos-de-vida-y-sus-justificaciones">Capítulo 2: Tipos de Ciclos de Vida y sus Justificaciones</h3>
+
+<p>Un ciclo de vida proporciona una estructura para llevar a cabo el desarrollo de sistemas. A lo largo de los años, se han desarrollado y empleado diferentes ciclos de vida, desde el enfoque tradicional y lineal de “Waterfall” hasta el popular enfoque “Ágil” actual. En este capítulo, se presentan los diferentes ciclos de vida y se evalúan sus fortalezas y debilidades relativas.</p>
+
+<h3 id="capítulo-3-análisis-de-la-necesidad-empresarial">Capítulo 3: Análisis de la Necesidad Empresarial</h3>
+
+<p>Antes de embarcarse en cualquier proyecto de desarrollo de sistemas, los analistas de negocios deben examinar la verdadera necesidad empresarial y evaluar las opciones disponibles para satisfacerla. Este análisis también debe considerar los aspectos no relacionados con TI, como cambios en las estructuras organizativas, procesos empresariales y puestos de trabajo de las personas que deberán abordarse para implementar el sistema de manera efectiva y obtener los beneficios esperados.</p>
+
+<h3 id="capítulo-4-elaboración-de-un-caso-de-negocio">Capítulo 4: Elaboración de un Caso de Negocio</h3>
+
+<p>El caso de negocio es, o debería ser, un examen de la justificación para emprender un proyecto de desarrollo de sistemas y un análisis riguroso de los costos, beneficios, impactos y riesgos de las acciones disponibles. Suponiendo que se haya realizado inicialmente, el caso de negocio debe revisarse a lo largo del ciclo de vida del proyecto para asegurarse de que no haya sido invalidado por, por ejemplo, aumentos en los costos o cambios en el entorno externo.</p>
+
+<h3 id="capítulo-5-ingeniería-de-requisitos">Capítulo 5: Ingeniería de Requisitos</h3>
+
+<p>Si se pretende entregar un sistema que satisfaga las necesidades de la organización, debe basarse en requisitos bien definidos, de modo que los desarrolladores sepan qué deben producir. La ingeniería de requisitos proporciona un marco y técnicas para crear requisitos de alta calidad como base para el trabajo de desarrollo.</p>
+
+<h3 id="capítulos-6-programación-y-enfoques-de-desarrollo">Capítulos 6: Programación y Enfoques de Desarrollo</h3>
+
+<p>Una decisión importante a tomar es si, después de definir los requisitos, la solución debe construirse desde cero o si se debe producir una solución comercial lista para usar (COTS). Suponiendo que se realice al menos algo de trabajo de desarrollo, estos capítulos revisan los diferentes métodos de programación y desarrollo que podrían emplearse.</p>
+
+<h3 id="capítulo-7-técnicas-de-modelado-de-sistemas">Capítulo 7: Técnicas de Modelado de Sistemas</h3>
+
+<p>La mayoría de las disciplinas de ingeniería utilizan modelos para ayudar en la conceptualización y especificación de la solución. En el caso del desarrollo de sistemas, el producto se puede especificar en términos de los aspectos funcionales o de procesamiento, los requisitos de datos y la vista “dinámica” o basada en eventos. Este capítulo presenta enfoques para el modelado desde estas tres perspectivas.</p>
+
+<h3 id="capítulos-8-y-9-diseño-del-sistema">Capítulos 8 y 9: Diseño del Sistema</h3>
+
+<p>El diseño es la etapa en el proceso de desarrollo donde se toman decisiones sobre cómo cumplir con los requisitos definidos utilizando el hardware y el software disponibles. Tanto las funciones/procesamiento como los datos deben ser diseñados, y esto a menudo implica hacer compromisos entre lo ideal y lo práctico dadas la tecnología, el tiempo y los recursos disponibles.</p>
+
+<h3 id="capítulo-10-arquitecturas-relacionadas-con-la-solución">Capítulo 10: Arquitecturas Relacionadas con la Solución</h3>
+
+<p>La arquitectura en TI es similar a la arquitectura en la construcción, ya que proporciona un marco general y una estructura para el desarrollo de sistemas. Este capítulo explica el propósito y el enfoque de la arquitectura, las partes interesadas involucradas y el papel de conceptos como la Arquitectura Orientada a Servicios (SOA) y el Desarrollo Orientado a Servicios.</p>
+
+<h3 id="capítulo-11-calidad-y-pruebas">Capítulo 11: Calidad y Pruebas</h3>
+
+<p>Los sistemas deben no solo desarrollarse a tiempo y dentro del presupuesto, sino que también deben alcanzar niveles adecuados de calidad. Este capítulo define lo que se entiende por “calidad” en el contexto de TI y presenta métodos que se pueden utilizar para asegurar la calidad del software.</p>
+
+<h3 id="capítulo-12-implementación-y-cambio">Capítulo 12: Implementación y Cambio</h3>
+
+<p>La introducción de sistemas en servicio a menudo es un aspecto muy desafiante del desarrollo de sistemas, ya que implica pasar de sistemas manuales u obsoletos a los nuevos, capacitar al personal, realizar la conversión de datos, entre otros aspectos. Este capítulo revisa estos problemas y también considera los diferentes enfoques para la implementación, como un “big bang” o de manera gradual.</p>
+
+<h3 id="chapter-13-mantenimiento-y-evaluación">Chapter 13: Mantenimiento y Evaluación</h3>
+
+<p>Las encuestas han demostrado que, en la mayoría de los casos, la totalidad de los gastos en sistemas de TI ocurren después de que se han puesto en servicio, para solucionar problemas, hacer mejoras, adaptarse a cambios en otros sistemas, entre otros. Aunque la operación en vivo sigue al desarrollo de sistemas, este capítulo explica el propósito de la evaluación y el mantenimiento y muestra cómo las decisiones tomadas durante el desarrollo pueden ayudar o dificultar la longevidad de los sistemas.</p>
+
+<h3 id="chapter-14-herramientas-de-desarrollo-de-soluciones">Chapter 14: Herramientas de Desarrollo de Soluciones</h3>
+
+<p>El desarrollo de sistemas puede beneficiarse enormemente si el equipo de desarrollo tiene a su disposición herramientas de soporte de software para ayudarlos en su trabajo. Estas herramientas pueden variar desde herramientas para controlar la gran cantidad de documentación que se produce, hasta ayudas para los desarrolladores y herramientas para facilitar las pruebas. Este capítulo analiza los pros y contras de las herramientas de soporte de software y proporciona orientación sobre qué buscar en una herramienta.</p>]]></content><author><name>Borja Medina Ramos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Capítulos Se mostrará a continuación un breve resumen de lo que tratará el curso sobre el desarrollo de sistemas de información.]]></summary></entry></feed>
