@@ -19,8 +19,8 @@ email: alu0101337609@ull.edu.es
 description: >- # this means to ignore newlines until "baseurl:"
   Este sitio web consiste en explicar el tema 1 "Introducción al Desarrollo de Sistemas de Información"
   de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/intro2sd-borja-medina-ramos-alu0101337609" # the subpath of your site, e.g. /blog
+url: "https://ull-esit-dmsi-2324.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ShayBRJ
 
 # Build settings
