@@ -1,0 +1,31 @@
+---
+layout: page
+title: Acerca de mí
+---
+
+{% for perfil in site.perfil %} 
+  
+  <div class="foto">
+    <h1><img src="{{ perfil.image_path }}" width="300" height="300"></h1>
+    <h2><alt="{{ perfil.title }}" />{{ perfil.title }}</h2>
+    {{ perfil.content }}
+  </div>
+  
+  <style>
+
+  .foto{
+      position: relative;
+      display: inline-block;
+      text-align: center;
+  }
+   
+  
+  .foto{
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      size: 5px;
+      transform: translate(-50%, -50%);
+  }
+  </style>
+{% endfor %}
