@@ -1,12 +1,12 @@
 # Introducción al Desarrollo de Sistemas
-<body>
 ## Rúbrica
+<body>
 
 <a href="#despliegue-gh-pages">Despliegue en GH Pages<a/>
 
 <a href="#resumen-cap1">Resumen de conceptos<a/>
 
-<a href="#fichero-yml">Resumen de conceptos<a/>
+<a href="#fichero-yml">Fichero YAML<a/>
 
 
 
