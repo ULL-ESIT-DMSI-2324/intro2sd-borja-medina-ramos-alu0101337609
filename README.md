@@ -14,7 +14,7 @@
 <p>Ha continuación se procede a mostrar un poco sobre el sitio estático recreado con el generador Jekyll y desplegado gracias a GitHub Pages</p>
 <img src="/img/sitio-web.png" alt="sitio web"/>
 
-<a name="resumen-cap1" />
+<a name="resumen-cap1"/>
 <h2>Resumen del Capítulo 1</h2>
 <p>Se muestra una imagen donde se puede observar uno de los apartados resumidos del tema introductorio de la asignatura</p>
 <img src="/img/resumen-conceptos.png" alt="conceptos"/>
