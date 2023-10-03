@@ -8,6 +8,8 @@
 
 <a href="#fichero-yml">Fichero YAML<a/>
 
+<a href="#Liquid">Usos de Liquid<a/>
+
 
 
 
@@ -33,9 +35,10 @@ una breve descripción del alumno que ha realizado la práctica.</p>
 <img src="/img/fichero-yml-md-liquid.png" alt="fichero yml" />
 
 <a name="Liquid"/>
-<h2>Uso de Liquid</h2>
+<h2>Usos de Liquid</h2>
 <p> Durante la práctica se han utilizado en dos ocasiones el lenguaje de marcado *Liquid*. <br />
 En la primera ocasión se acceden a los datos del fichero .yml como se ha mostrado en el apartado anterior. <br />
 Y en la segunda ocasión al leer la collection creada en _perfil. En caso de añadirse más información en dicha collection, se
 añadirá automáticamente en la página correspondiente.
+<img src="/img/liquid.png" alt="usos-liquid" />
 </body>
