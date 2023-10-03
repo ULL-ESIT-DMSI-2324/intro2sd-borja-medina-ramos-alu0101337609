@@ -1,13 +1,13 @@
 # Introducción al Desarrollo de Sistemas
 <body>
-<p><b>Rúbrica</b>
+<b>Rúbrica</b>
   
 <a href="#despliegue-gh-pages">Despliegue en GH Pages<a/>
 
 <a href="resumen-cap1">Resumen de conceptos<a/>
 
 
-</p>
+
 
 <a name="despliegue-gh-pages"/>
 <h2>Despliegue en GH Pages</h2>
