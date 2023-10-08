@@ -1,10 +1,14 @@
 # Introducción al Desarrollo de Sistemas
+## Rúbrica
 <body>
-<b>Rúbrica</b>
-  
+
 <a href="#despliegue-gh-pages">Despliegue en GH Pages<a/>
 
-<a href="resumen-cap1">Resumen de conceptos<a/>
+<a href="#resumen-cap1">Resumen de conceptos<a/>
+
+<a href="#fichero-yml">Fichero YAML<a/>
+
+<a href="#Liquid">Usos de Liquid<a/>
 
 
 
@@ -24,6 +28,17 @@
 pues consigue evitar la confusión, retener a los usuarios y facilitar el seguimiento de errores, lo que en última instancia contribuye a la eficacia, accesibilidad y usabilidad del sitio web.</p>
 <img src="/img/pagina-404-personal.png" alt="404" />
 
-<h2> Página 404 personalizada </h2>
+<a name="fichero-yml"/>
+<h2>Fichero YAML</h2>
+<p>Se procede a mostrar una imagen del fichero .yml. Asimismo se acceden a los datos del mismo mediante Liquid para hacer
+una breve descripción del alumno que ha realizado la práctica.</p>
+<img src="/img/fichero-yml-md-liquid.png" alt="fichero yml" />
 
+<a name="Liquid"/>
+<h2>Usos de Liquid</h2>
+<p> Durante la práctica se han utilizado en dos ocasiones el lenguaje de marcado *Liquid*. <br />
+En la primera ocasión se acceden a los datos del fichero .yml como se ha mostrado en el apartado anterior. <br />
+Y en la segunda ocasión al leer la collection creada en _perfil. En caso de añadirse más información en dicha collection se
+añadirá automáticamente en la página correspondiente.
+<img src="/img/liquid.png" alt="usos-liquid" />
 </body>
