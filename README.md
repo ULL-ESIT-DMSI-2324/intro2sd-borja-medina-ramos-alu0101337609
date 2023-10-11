@@ -49,6 +49,8 @@ En la primera ocasión se acceden a los datos del fichero .yml como se ha mostra
 En la segunda ocasión al leer la collection creada en _perfil. En caso de añadirse más información en dicha collection
 se añadirá automáticamente en la página correspondiente.
 Y por ultimo, para tomar los datos desde el JSON obtenido desde la API de GitHUB.
+
 <img src="/img/liquid.png" alt="usos-liquid" />
+
 <img src="/img/liquid-repo.PNG" alt="repo liquid" />
 </body>
