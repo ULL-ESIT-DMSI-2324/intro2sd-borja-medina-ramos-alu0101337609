@@ -8,6 +8,8 @@
 
 <a href="#fichero-yml">Fichero YAML<a/>
 
+<a href="#llamada-api">Datos desde la API<a/>
+
 <a href="#Liquid">Usos de Liquid<a/>
 
 
@@ -34,11 +36,19 @@ pues consigue evitar la confusión, retener a los usuarios y facilitar el seguim
 una breve descripción del alumno que ha realizado la práctica.</p>
 <img src="/img/fichero-yml-md-liquid.png" alt="fichero yml" />
 
+<a name="llamada-api"/>
+<h2>Datos desde la API</h2>
+<p>Se ha realiza una llamda a la API de Github para obtener los datos del repositorio en cuestión y darle formato JSON
+mediante el comando jq.</p>
+<img src="/img/datos_from_json.png" alt="fichero json" />
+
 <a name="Liquid"/>
 <h2>Usos de Liquid</h2>
-<p> Durante la práctica se han utilizado en dos ocasiones el lenguaje de marcado *Liquid*. <br />
+<p> Durante la práctica se han utilizado en tres ocasiones el lenguaje de marcado *Liquid*. <br />
 En la primera ocasión se acceden a los datos del fichero .yml como se ha mostrado en el apartado anterior. <br />
-Y en la segunda ocasión al leer la collection creada en _perfil. En caso de añadirse más información en dicha collection se
-añadirá automáticamente en la página correspondiente.
+En la segunda ocasión al leer la collection creada en _perfil. En caso de añadirse más información en dicha collection
+se añadirá automáticamente en la página correspondiente.
+Y por ultimo, para tomar los datos desde el JSON obtenido desde la API de GitHUB.
 <img src="/img/liquid.png" alt="usos-liquid" />
+<img src="/img/liquid-repo.PNG" alt="repo liquid" />
 </body>
