@@ -1,0 +1,63 @@
+/* Estilo para el label asociado al campo de entrada con id "search" */
+label[for="search"] {
+  display: block; /* Hacer que el label sea un bloque para centrarlo */
+  text-align: center; /* Centrar el texto dentro del label */
+  font-size: 18px; /* Cambiar el tamaño de fuente */
+  color: #333; /* Cambiar el color del texto */
+  margin: 0 auto; /* Centrar horizontalmente el label */
+  width: 60%; /* Ancho del label para evitar que sea demasiado ancho */
+  padding: 10px; /* Espacio interno alrededor del label */
+  background-color: #f0f0f0; /* Cambiar el fondo */
+  border-radius: 10px; /* Agregar bordes redondeados */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Agregar sombra */
+}
+.input {
+  display: block; /* Hacer que el input sea un bloque para alinear verticalmente */
+  margin: 0 auto; /* Centrar horizontalmente el input */
+  width: 60%; /* Ancho del input para que coincida con el label */
+  padding: 10px; /* Espacio interno alrededor del input */
+  font-size: 16px; /* Cambiar el tamaño de fuente del input */
+  border: 1px solid #333; /* Agregar un borde al input */
+  border-radius: 10px; /* Agregar bordes redondeados al input */
+  background-color: #f0f0f0; /* Cambiar el fondo del input */
+}
+/* Estilo para el resultado */
+.result {
+  margin-bottom: 20px; /* Agregar espacio entre resultados */
+  padding: 10px; /* Espacio interno alrededor del resultado */
+  background-color: #f0f0f0; /* Cambiar el fondo del resultado */
+  border: 1px solid #333; /* Agregar un borde al resultado */
+  border-radius: 10px; /* Agregar bordes redondeados al resultado */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Agregar sombra al resultado */
+  list-style: none; /* Quitar el punto de la lista */
+}
+
+/* Estilo para el título del resultado */
+.result h4 {
+  font-size: 20px; /* Cambiar el tamaño de fuente del título */
+  margin: 0; /* Eliminar el margen superior e inferior del título */
+}
+
+/* Estilo para el enlace del título */
+.result h4 a {
+  color: #0077cc; /* Cambiar el color del enlace */
+  text-decoration: none; /* Eliminar el subrayado del enlace */
+}
+
+.result h4 a:hover {
+  text-decoration: underline; /* Subrayar el enlace al pasar el mouse por encima */
+}
+
+/* Estilo para el párrafo del resultado */
+.result p {
+  font-size: 16px; /* Cambiar el tamaño de fuente del párrafo */
+  color: #333; /* Cambiar el color del texto del párrafo */
+  margin: 0; /* Eliminar el margen superior e inferior del párrafo */
+}
+
+.no-results {
+  text-align: center; /* Centrar el contenido en el div */
+  font-size: 18px; /* Cambiar el tamaño de fuente del mensaje */
+  color: #999; /* Cambiar el color del texto del mensaje */
+  margin: 20px 0; /* Agregar margen superior e inferior al mensaje */
+}

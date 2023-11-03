@@ -3,20 +3,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>DMSI | Este sitio web consiste en explicar el tema 1 “Introducción al Desarrollo de Sistemas de Información” de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información.</title>
+<title>Search | DMSI</title>
 <meta name="generator" content="Jekyll v3.8.6" />
-<meta property="og:title" content="DMSI" />
+<meta property="og:title" content="Search" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Este sitio web consiste en explicar el tema 1 “Introducción al Desarrollo de Sistemas de Información” de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información." />
 <meta property="og:description" content="Este sitio web consiste en explicar el tema 1 “Introducción al Desarrollo de Sistemas de Información” de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información." />
-<link rel="canonical" href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/404" />
-<meta property="og:url" content="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/404" />
+<link rel="canonical" href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/search/" />
+<meta property="og:url" content="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/search/" />
 <meta property="og:site_name" content="DMSI" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="DMSI" />
+<meta property="twitter:title" content="Search" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Este sitio web consiste en explicar el tema 1 “Introducción al Desarrollo de Sistemas de Información” de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información.","headline":"DMSI","url":"http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/404"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Este sitio web consiste en explicar el tema 1 “Introducción al Desarrollo de Sistemas de Información” de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información.","headline":"Search","url":"http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/search/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/intro2sd-borja-medina-ramos-alu0101337609/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/feed.xml" title="DMSI" /></head>
 <body><header class="site-header" role="banner">
@@ -37,20 +37,36 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>404</title>
-  <link rel="stylesheet" href="/intro2sd-borja-medina-ramos-alu0101337609/css/404.css">
+  <link rel="stylesheet" href="/intro2sd-borja-medina-ramos-alu0101337609/css/search.css" />
 </head>
 
-<div class="container">
-  <img src="/intro2sd-borja-medina-ramos-alu0101337609/img/404.png" alt="404" />
-  <h1>Los apuntes que buscas no están disponibles</h1>
-  <div class="botón">
-    <button onclick="window.history.back()">Volver atrás</button>
-  </div>
+<h1>Búsqueda</h1>
+
+<form id="search-form" action="">
+  <label class="label" for="search">Buscar (Se aceptan expresiones regulares):</label>
+  <br />
+  <input class="input" id="search" type="text" name="search" autofocus="" placeholder="ej: Outsourcing" autocomplete="off" />
   
+  <ul class="list  list--results" id="list">
+  </ul>
+</form>
+
+<script type="text/javascript" src="/intro2sd-borja-medina-ramos-alu0101337609/assets/src/search.js"></script>
+
+<script type="text/javascript">
+
+  const search = new JekyllSearch(
+    '/intro2sd-borja-medina-ramos-alu0101337609/assets/src/search.json',
+    '#search',
+    '#list',
+    '/intro2sd-borja-medina-ramos-alu0101337609'
+  );
+  search.start(); 
+  
+</script>
+
+<noscript>Por favor activa Javascript para habilitar la función de busqueda.</noscript>
+
 
       </div>
     </main><footer class="site-footer h-card">

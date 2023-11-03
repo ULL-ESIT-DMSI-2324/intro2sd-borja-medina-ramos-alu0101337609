@@ -1,4 +1,184 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/" rel="alternate" type="text/html" /><updated>2023-10-11T20:33:18+00:00</updated><id>http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/feed.xml</id><title type="html">DMSI</title><subtitle>Este sitio web consiste en explicar el tema 1 &quot;Introducción al Desarrollo de Sistemas de Información&quot; de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información.</subtitle><entry><title type="html">Disciplinas relacionadas con los Sistemas de Información</title><link href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/disciplinas-relacionadas" rel="alternate" type="text/html" title="Disciplinas relacionadas con los Sistemas de Información" /><published>2023-09-24T12:13:26+00:00</published><updated>2023-09-24T12:13:26+00:00</updated><id>http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/disciplinas-relacionadas</id><content type="html" xml:base="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/disciplinas-relacionadas"><![CDATA[<h1 id="gestión-de-proyectos">Gestión de Proyectos:</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/" rel="alternate" type="text/html" /><updated>2023-11-03T19:02:27+00:00</updated><id>http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/feed.xml</id><title type="html">DMSI</title><subtitle>Este sitio web consiste en explicar el tema 1 &quot;Introducción al Desarrollo de Sistemas de Información&quot; de la asignatura de Desarrollo y Mantenimiento de Sistemas de Información.</subtitle><entry><title type="html">Tipos de ciclo de vida y sus razonamientos</title><link href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/tipos-ciclos-de-vida" rel="alternate" type="text/html" title="Tipos de ciclo de vida y sus razonamientos" /><published>2023-10-03T18:30:26+00:00</published><updated>2023-10-03T18:30:26+00:00</updated><id>http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/tipos-ciclos-de-vida</id><content type="html" xml:base="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/tipos-ciclos-de-vida"><![CDATA[<h2 id="introducción">Introducción</h2>
+
+<p><strong>Ciclo de Vida de Desarrollo de Sistemas (SDLC)</strong></p>
+
+<p>El SDLC es un marco para planificar, construir y desplegar sistemas de información, aplicable a hardware y software. Las etapas clave son:</p>
+
+<ol>
+  <li><strong>Estudio de Viabilidad</strong>: Evaluación de recursos y ROI antes de iniciar el desarrollo.</li>
+  <li><strong>Requisitos</strong>: Captura y documentación de lo que el sistema debe hacer.</li>
+  <li><strong>Diseño</strong>: Exploración de soluciones y elaboración del diseño.</li>
+  <li><strong>Desarrollo</strong>: Creación de componentes técnicos (hardware y software).</li>
+  <li><strong>Pruebas</strong>: Verificación de que los componentes funcionen correctamente.</li>
+  <li><strong>Implementación</strong>: Transición del sistema al entorno operativo.</li>
+</ol>
+
+<p>El SDLC también abarca procesos, roles, herramientas y técnicas específicas.</p>
+
+<p><strong>Elementos Clave en el Desarrollo de Sistemas</strong></p>
+
+<ol>
+  <li>
+    <p><strong>Contexto</strong>: Antes de iniciar el desarrollo, es fundamental considerar el contexto, que incluye factores como la entrega del sistema, habilidades del equipo, ubicación y requisitos de auditoría.</p>
+  </li>
+  <li>
+    <p><strong>Ciclo de Vida</strong>: El ciclo de vida describe las etapas típicas de planificación, diseño, construcción, pruebas y entrega de sistemas de información, que pueden ser lineales o iterativas.</p>
+  </li>
+  <li>
+    <p><strong>Procesos</strong>: Los procesos son conjuntos de acciones que producen resultados específicos. Es importante estructurar, planificar y controlar los procesos en torno a las etapas del ciclo de vida.</p>
+  </li>
+  <li>
+    <p><strong>Roles</strong>: Para avanzar en el ciclo de vida, se requieren roles específicos, como analistas de negocios, desarrolladores y administradores.</p>
+  </li>
+  <li>
+    <p><strong>Entregables</strong>: Estos incluyen documentos, modelos, diseños y componentes necesarios en diversas etapas del ciclo de vida, variando según el ciclo y el proceso.</p>
+  </li>
+  <li>
+    <p><strong>Técnicas</strong>: Existen diversas técnicas que pueden utilizarse durante el desarrollo, dependiendo de las preferencias del equipo, el ciclo y el enfoque del desarrollo.</p>
+  </li>
+</ol>
+
+<p><strong>TABLA COMPARATIVA ENTRE CICLOS DE VIDA LINEALES Y EVOLUTIVOS</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspecto</th>
+      <th>Enfoque Lineal</th>
+      <th>Enfoque Evolutivo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Estructura</strong></td>
+      <td>Divide el problema en etapas distintas, con un propósito claro.</td>
+      <td>Progresa mediante la entrega de prototipos tempranos o iteraciones.</td>
+    </tr>
+    <tr>
+      <td><strong>Acuerdo Temprano</strong></td>
+      <td>Requiere que todo sea acordado por adelantado sin necesidad de revisiones posteriores.</td>
+      <td>Se adapta a requisitos cambiantes, inciertos o complejos.</td>
+    </tr>
+    <tr>
+      <td><strong>Control de Costos y Alcance</strong></td>
+      <td>Ayuda a controlar costos y el alcance, lo que lo hace adecuado para sistemas complejos y desarrollo distribuido.</td>
+      <td>Puede resultar en un aumento de los costos debido a la integración y pruebas adicionales.</td>
+    </tr>
+    <tr>
+      <td><strong>Dificultades con Cambios</strong></td>
+      <td>No se lleva bien con cambios en los requisitos, ya que es difícil o imposible regresar y cambiar etapas previas.</td>
+      <td>Adaptable a cambios en los requisitos, ya que permite refinamiento posterior.</td>
+    </tr>
+    <tr>
+      <td><strong>Valor Temprano</strong></td>
+      <td>El valor del cliente no está disponible hasta el final del ciclo.</td>
+      <td>Entrega temprana de valor al cliente, ya sea en forma de versiones funcionales o conocimiento sobre riesgos del proyecto.</td>
+    </tr>
+    <tr>
+      <td><strong>Manejo del Riesgo</strong></td>
+      <td>No es efectivo para gestionar riesgos.</td>
+      <td>Ideal para proyectos de innovación, productos nuevos, o proyectos de alto riesgo, ya que puede detenerse sin incurrir en grandes costos.</td>
+    </tr>
+    <tr>
+      <td><strong>Colaboración del Cliente</strong></td>
+      <td>Menos colaboración con el cliente durante el proceso.</td>
+      <td>Fomenta la colaboración constante con el cliente, lo que aumenta el compromiso del cliente.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="ciclos-de-vida-lineales">Ciclos de vida lineales</h3>
+
+<p><strong>Ciclo de Vida en Cascada (Waterfall):</strong></p>
+<ul>
+  <li>Enfoque secuencial con etapas bien definidas.</li>
+  <li>Cada etapa debe completarse antes de pasar a la siguiente.</li>
+  <li>Adecuado para sistemas con requisitos claros que no cambian.</li>
+  <li>Vulnerable a cambios en los requisitos después de la etapa de requisitos.</li>
+  <li>La entrega de software funcional se realiza al final.</li>
+</ul>
+
+<p><strong>Modelo en V (‘V’ Model):</strong></p>
+<ul>
+  <li>Extensión del modelo en cascada.</li>
+  <li>Divide el ciclo en etapas de definición y verificación/validación.</li>
+  <li>Se enfoca en la calidad y la seguridad, adecuado para sistemas críticos.</li>
+  <li>Permite una mejor gestión de proyectos y control.</li>
+  <li>Costoso para sistemas más simples y cambios en los requisitos.</li>
+</ul>
+
+<p><strong>Ciclo de Vida Incremental:</strong></p>
+<ul>
+  <li>Comienza de manera secuencial pero permite la entrega de partes del sistema antes que otras.</li>
+  <li>Ideal para entregar funcionalidades temprano en el proceso.</li>
+  <li>Adecuado cuando la arquitectura básica del sistema es estable.</li>
+  <li>Reduce el tiempo de espera del cliente, pero puede aumentar los costos debido a múltiples entregas.</li>
+</ul>
+
+<h3 id="ciclos-de-vida-evolutivos">Ciclos de vida evolutivos</h3>
+
+<p><strong>Ciclos de Vida Basados en el Enfoque Evolutivo:</strong></p>
+<ul>
+  <li>Los enfoques evolutivos existen desde la década de 1980 y son la base de enfoques más populares como “Agile”.</li>
+  <li>Los dos ciclos de vida fundamentales son: Iterativo y Espiral.</li>
+</ul>
+
+<p><strong>Desarrollo Iterativo:</strong></p>
+<ul>
+  <li>El proyecto global se divide en varias iteraciones o desarrollos a corto plazo.</li>
+  <li>Cada iteración es un mini proyecto independiente que incluye actividades como requerimientos, análisis, diseño, desarrollo y pruebas.</li>
+  <li>Las iteraciones evolucionan los requerimientos y entregan un sistema funcional que aporta valor.</li>
+  <li>Adecuado cuando los problemas o soluciones no son claros desde el principio.</li>
+</ul>
+
+<p><strong>Spiral (Espiral):</strong></p>
+<ul>
+  <li>Combina el desarrollo iterativo con prototipado para abordar riesgos y evolucionar los requerimientos.</li>
+  <li>No requiere definición previa de requerimientos.</li>
+  <li>Se inicia con un concepto y pasa por cuatro fases: determinar objetivos, identificar y resolver riesgos, desarrollo y pruebas, y planificación de la siguiente iteración.</li>
+  <li>
+    <p>Adecuado para proyectos con riesgos significativos y requerimientos cambiantes.</p>
+  </li>
+  <li>Ambos enfoques evolutivos promueven la colaboración con los usuarios, permiten la evolución de requerimientos y entregan sistemas operativos temprano en el ciclo de desarrollo. Sin embargo, también pueden resultar en un aumento de los costos y riesgos si no se gestionan adecuadamente.</li>
+</ul>
+
+<h2 id="metodologías-ágiles">Metodologías Ágiles</h2>
+
+<p><strong>SCRUM</strong></p>
+<ul>
+  <li>
+    <p>Scrum es probablemente uno de los enfoques ágiles más conocidos y utilizados en la actualidad, y fue publicado por primera vez en 1995 por Ken Schwaber y Jeff Sutherland. Scrum es un proceso Iterativo e Incremental que sigue un enfoque evolutivo para el desarrollo de sistemas de software. Introduce un lenguaje y conceptos únicos que gobiernan cómo se planifica y supervisa el trabajo por un pequeño equipo de ingenieros de software multidisciplinarios. Scrum propone únicamente tres roles, que son:</p>
+  </li>
+  <li>Product Owner: Representa al negocio y es la voz del cliente.</li>
+  <li>Equipo de Desarrollo: Equipo autoorganizado y multifuncional de 5-9 individuos que entregan el software funcional.</li>
+  <li>Scrum Master: Persona responsable de eliminar obstáculos para que el equipo de desarrollo pueda alcanzar los objetivos.</li>
+</ul>
+
+<p><strong>Proceso Unificado de Rational 1998</strong></p>
+<ul>
+  <li>El Proceso Unificado de Rational (RUP), desarrollado originalmente en 1998 por Rational Software (ahora IBM), es un proceso de ingeniería de software. Es un proceso iterativo e incremental impulsado por el riesgo, construido sobre los cimientos del modelo en espiral, que asigna y gestiona tareas y responsabilidades de manera disciplinada dentro de una organización de desarrollo. RUP también es un marco de proceso que se puede adaptar y ajustar para satisfacer las necesidades de la organización o el equipo del proyecto. RUP consta de cuatro fases principales, que son Inicio, Elaboración, Construcción y Transición, así como seis flujos de trabajo de ingeniería principales, que son: modelado de negocios, requisitos, análisis y diseño, implementación, prueba y despliegue.</li>
+</ul>
+
+<p><strong>Desarrollo de Software Lean</strong></p>
+<ul>
+  <li>
+    <p>Tiene sus raíces en la fabricación lean, pionera de Toyota. Se trata de un conjunto de técnicas y herramientas que se pueden aplicar para eliminar desperdicios en la fabricación y, por lo tanto, mejorar la productividad. El Desarrollo de Software Lean fue introducido por Mary y Tom Poppendieck en su libro “Lean software development: an Agile toolkit” (2003) y traduce la fabricación lean en principios de desarrollo de software.</p>
+  </li>
+  <li>
+    <p>Principios:</p>
+    <ul>
+      <li>Enfoque en los clientes.</li>
+      <li>Energizar a los trabajadores.</li>
+      <li>Eliminar desperdicios.</li>
+      <li>Aprender rápido.</li>
+      <li>Entregar rápido.</li>
+      <li>Construir calidad desde el principio.</li>
+      <li>Seguir mejorando.</li>
+      <li>Optimizar el conjunto.
+<img src="https://viewnext.usal.es/sites/default/files/VALORES%20AGILES.png" alt="metodologias-agiles" /></li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Borja Medina Ramos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Introducción]]></summary></entry><entry><title type="html">Disciplinas relacionadas con los Sistemas de Información</title><link href="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/disciplinas-relacionadas" rel="alternate" type="text/html" title="Disciplinas relacionadas con los Sistemas de Información" /><published>2023-09-24T12:13:26+00:00</published><updated>2023-09-24T12:13:26+00:00</updated><id>http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/disciplinas-relacionadas</id><content type="html" xml:base="http://localhost:4000/intro2sd-borja-medina-ramos-alu0101337609/posts/disciplinas-relacionadas"><![CDATA[<h1 id="gestión-de-proyectos">Gestión de Proyectos:</h1>
 
 <ul>
   <li>En un proyecto de desarrollo de sistemas, la experiencia técnica por sí sola no es suficiente; también se requiere una gestión de proyectos eficaz.</li>
