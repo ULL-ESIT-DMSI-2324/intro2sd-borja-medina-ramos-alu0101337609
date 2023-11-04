@@ -24,8 +24,8 @@ Véase el post asociado:
 ## <a id="cors-seccion"></a>Peticiones y Políticas CORS
 
 Estas se implementan en los navegadores web para controlar y gestionar las solicitudes de recursos entre diferentes orígenes. 
-Se ha realizado dos peticiones tanto para solicitar los repositorios del usuario *ShayBRJ* así como los repositorios a los que tiene el mismo usuario dentro de la organización 
-de la asignatura mostrando las dichas políticas mostrando los encabezados de respuesta CORS.
+Se ha realizado dos peticiones tanto para solicitar los repositorios del usuario *ShayBRJ* así como los repositorios a los que tiene el mismo usuario dentro de la organización de la asignatura. 
+Asimismo se muestran las políticas CORS utilizadas para dichas peticiones.
 
 ![request-user-repos](/img/request-cors.PNG)
 
